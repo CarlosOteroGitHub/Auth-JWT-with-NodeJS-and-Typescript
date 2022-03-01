@@ -1,0 +1,37 @@
+========================================================== COMANDOS ==========================================================
+
+° npm init -y: Comando utilizado para iniciar un proyecto NodeJS.
+
+° npm install express --save: Comando utilizado para instalar la última versión de Express.
+
+° npm install typescript: Comando utilizado para instalar la última versión de typescript.
+
+° npx tsc --init: Comando utilizado para crear un archivo de configuración para typescript.
+
+° npm install concurrently -D: Comando utilizado instalar la última versión de concurrently util para ejecutar más de un comando a la vez.
+
+° npm install nodemon -g: Comando utilizado para instalar la última versión de Nodemon.
+
+° npm install dotenv: Comando utilizado para administrar las variables de entorno.
+
+° npm install morgan: Comando utilizado para instalar la última versión del middleware morgan.
+
+° npm install bcryptjs: Comando uitilizao para cifrar cadenas de caracteres.
+
+° npm install @types/bcryptjs: Comando utilizado para combinar el cifrado bcryptjs con Typescript.
+
+° npm install jsonwebtoken: Comando utilizado para el estandar de JSON Web Token.
+
+° npm install @types/jsonwebtoken: Comando utilizado para el estandar de JSON Web Token con Typescript.
+
+° npm install mongoose: Comando utilizado para instalar las dependencias de conexión con el SGBD MongoDB.
+
+° mongod: Comando para iniciar el servidor de MongoDB (Ejecute el comando en otra terminal de comandos).
+
+° npm install: Comando utilizado para descargar las dependencias requeridas en el proyecto.
+
+° npx tsc: Comando utilizado para compilar el código Javascript a Typescript en la carpeta "dist".
+
+° node dist/app.js: Comando utilizado para correr el código Javascript contenido en la carpeta "dist".
+
+° npm run dev: Comando utilizado para correr el servidor de Node JS. El servidor corre por defecto en el navegador con la dirección localhost:3000 

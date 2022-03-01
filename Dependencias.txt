@@ -1,0 +1,25 @@
+========================================================== DEPENDENCIAS UTILIZADAS ==========================================================
+
+° Microsoft Windows 10.
+
+° Google Chrome.
+
+° SublimeText.
+
+° Typescript.
+
+° ExpressJS.
+
+° Json Web Tokens.
+
+° NodeJS.
+
+° NPM.
+
+° MongoDB.
+
+° Nodemon.
+
+° bcryptjs.
+
+° Postman.
